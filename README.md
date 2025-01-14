@@ -1,5 +1,5 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51NWllNnJnN2N4bHZ4MnFqMGFrbmw0cWxrNTViZGpzdzU2N2ZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" 
-     style="width: 63vw; height: 21vw; text-align: center;" 
+     style="width: 63vw; height: max(21vw,20vh); text-align: center;" 
      alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
 <h3 align="center">A passionate Full-stack Web developer from India</h3>
