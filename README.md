@@ -1,4 +1,6 @@
-[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51NWllNnJnN2N4bHZ4MnFqMGFrbmw0cWxrNTViZGpzdzU2N2ZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)](https://rishavchanda.io)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51NWllNnJnN2N4bHZ4MnFqMGFrbmw0cWxrNTViZGpzdzU2N2ZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+     style="width: 70vw; height: auto;" 
+     alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
 <h3 align="center">A passionate Full-stack Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -35,4 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamishra3648&show_icons=true&locale=en&layout=compact" alt="adityamishra3648" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamishra3648&show_icons=true&locale=en" alt="adityamishra3648" /></p>
+
 
